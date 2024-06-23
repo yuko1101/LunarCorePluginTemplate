@@ -1,0 +1,9 @@
+{
+  "name": "ExamplePlugin",
+  "description": "A example plugin",
+  "version": "1.0.0",
+  "api": 1,
+  "authors": ["Your Name"],
+  "mainClass": "com.example.exampleplugin.ExamplePlugin",
+  "comments": []
+}
